@@ -10,9 +10,8 @@ conda activate catalyst-takehome
 jupyter lab
 ```
 
-* If you're interested in the [Data Liberation Engineer](https://catalyst.coop/work-with-us/data-liberation-engineer/)
-  role, then work with the `data-liberation-engineer.ipynb` notebook.
+* If you're interested in the [Data Wrangler](https://catalyst.coop/work-with-us/data-wrangler/)
+  role, then work with the `data-wrangler.ipynb` notebook.
 
-Each notebook contains more specific instructions. We're asking you to spend 2-4 hours
-on the take-home problem, and to send us your work after no more than 1 week has
-elapsed.
+Each notebook contains more specific instructions. We're asking you to spend 2 hours
+on the take-home problem.
